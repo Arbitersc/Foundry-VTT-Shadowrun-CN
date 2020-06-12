@@ -344,7 +344,7 @@
   "SR5.DicePool": "骰池",
   "SR5.SituationalModifier": "状况调整",
   "SR5.ItemMod": "物品Mod",
-  "SR5.Suppressing": "压制中",
+  "SR5.Suppressing": "压制火力",
   "SR5.BulletCount": "子弹数",
   "SR5.Recoil": "后座力",
   "SR5.FireMode": "开火模式",
@@ -383,7 +383,7 @@
   "SR5.Total": "总计",
   "SR5.PlaceTemplate": "放置模板",
   "SR5.Defaulting": "未受训使用",
-  "SR5.NotExtended": "非大范围",
+  "SR5.NotExtended": "非延续",
 
   "SR5.NormalSpellButton": "普通施法",
   "SR5.RecklessSpellButton": "鲁莽施法",
