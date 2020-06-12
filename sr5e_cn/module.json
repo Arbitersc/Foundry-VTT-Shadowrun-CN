@@ -20,6 +20,6 @@
     
     "url": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn",
 	"manifest": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn/module.json",
-	"download": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/-/jobs/artifacts/master/raw/sr5e_cn.zip?job=build"
+	"download": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn.zip"
   }
   
