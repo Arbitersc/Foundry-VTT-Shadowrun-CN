@@ -2,7 +2,7 @@
     "name": "SR5e_cn",
     "title": "Shadowrunn5E中文游戏系统",
     "description": "为FVTT中的Shadowrun5e系统添加中文。",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "minimumCoreVersion" : "0.6.0",
     "author": "Pangbai",
         
